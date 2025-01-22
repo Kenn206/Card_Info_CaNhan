@@ -58,8 +58,6 @@ body {
     justify-content: center;
     flex-direction: column;
     margin-top: 20px;
-    margin-bottom: 20px;
-    height: 100vh;
     width: 25%;
     border-radius: 15px;
     box-shadow: 0px 0px 15px rgb(245, 97, 97);
@@ -115,7 +113,7 @@ body {
 .MBBank:hover {
     box-shadow: 0px 0px 10px #1C00CD;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 430px) {
     .container_head, .container-body {
         width: 90%;
     }
@@ -126,6 +124,6 @@ body {
         font-size: 2rem;
     }
     .container-fluid {
-        transform: translate(-50%, 5%);
+        transform: translate(-50%, 1%);
     }
 }
