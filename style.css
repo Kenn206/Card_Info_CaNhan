@@ -113,7 +113,7 @@ body {
 .MBBank:hover {
     box-shadow: 0px 0px 10px #1C00CD;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 430px) {
     .container_head, .container-body {
         width: 90%;
     }
@@ -124,6 +124,6 @@ body {
         font-size: 2rem;
     }
     .container-fluid {
-        transform: translate(-50%, 10%);
+        transform: translate(-50%, 5%);
     }
 }
