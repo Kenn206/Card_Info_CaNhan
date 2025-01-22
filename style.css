@@ -118,12 +118,9 @@ body {
         width: 90%;
     }
     body {
-        height: 100vh;
+        height: 1200;
     }
     h2 {
         font-size: 2rem;
-    }
-    .container-fluid {
-        transform: translate(-50%, 1%);
     }
 }
