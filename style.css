@@ -113,7 +113,7 @@ body {
 .MBBank:hover {
     box-shadow: 0px 0px 10px #1C00CD;
 }
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 768px) {
     .container_head, .container-body {
         width: 90%;
     }
