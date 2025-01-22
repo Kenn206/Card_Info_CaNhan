@@ -118,7 +118,7 @@ body {
         width: 90%;
     }
     body {
-        height: 1200;
+        height: 100vh;
     }
     h2 {
         font-size: 2rem;
